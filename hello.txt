@@ -4,8 +4,4 @@ Adding a second line of text.
 
 Adding a third line in github.
 
-<<<<<<< HEAD
-Adding a change from local.
-=======
 Making a change from origin.
->>>>>>> 3052369ec7dbb11cd0b414b1075dac12495e038d
